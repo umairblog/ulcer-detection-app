@@ -1,5 +1,7 @@
 streamlit
-tensorflow==2.19.0
+tensorflow==2.11.0
 numpy
 pillow
 requests
+protobuf~=3.19.0   # optional for protobuf pinning
+
