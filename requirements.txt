@@ -1,4 +1,5 @@
-streamlit
-tensorflow
-pillow
-numpy
++ streamlit
++ tensorflow==2.19.0
++ numpy
++ pillow
++ requests
